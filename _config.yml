@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2022
 # 源码仓库，请替换成自己的
-repository: weakchen007/aiwv.github.io
+repository: adminlove520/aiwv.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -60,9 +60,9 @@ highlight_theme: github
 author: Eric Chen
 organization: 
 organization_url: 
-github_username: EricChen
-location: Tianjin, China
-email: weakchen@gmail.com
+github_username: adminlove520
+location: Yinchuan, China
+email: dark0tony@gmail.com
 
 # ---------------- #
 #    Navigation    #
